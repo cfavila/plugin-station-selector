@@ -1,6 +1,5 @@
 # Flex Station Selector
 
-test
 Enable and empower agent voice connectivity in a simple selection between native webRTC, PSTN and/or SIP endpoints.
 
 This Flex Plugin provides configurable support to update the agent's (worker) 'contact_uri' attributes while retaining perferences on current and past settings.
@@ -270,3 +269,7 @@ twilio flex:plugins:release --name "Flex Station Selector Initial Release" --des
 ```
 
 **NOTE**: Plugin updates (deployments) can be directly published via the Twilio Adminstrative UI as well.
+
+## Author
+
+Initial Dev: (12/20/2021) Charles Avila, Twilio Solution Architect, Contact Center;
