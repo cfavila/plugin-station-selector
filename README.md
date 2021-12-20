@@ -1,5 +1,6 @@
 # Flex Station Selector
 
+test
 Enable and empower agent voice connectivity in a simple selection between native webRTC, PSTN and/or SIP endpoints.
 
 This Flex Plugin provides configurable support to update the agent's (worker) 'contact_uri' attributes while retaining perferences on current and past settings.
